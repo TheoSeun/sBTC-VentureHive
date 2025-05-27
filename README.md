@@ -1,4 +1,3 @@
----
 
 # sBTC-VentureHive - Platform Smart Contract
 
@@ -83,5 +82,3 @@ The contract uses predefined error constants for common failure cases such as:
 * The **platform admin** is set at deployment and may have privileges (e.g., receiving withdrawn funds).
 * Ventures track founders and backers independently.
 * The contract manages state to prevent double withdrawals or unauthorized actions.
-
----
